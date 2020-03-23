@@ -1,0 +1,125 @@
+20 Feb 2018 23:14:39 GMT: Log 'PathClassLoader.txt' opened: 20 Feb 2018 23:14:39 GMT with name E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1\PathClassLoader.txt
+20 Feb 2018 23:14:39 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@b4aac2 and path '[C:\Users\George\Desktop\drjava-gmu.jar]'
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu) called
+20 Feb 2018 23:14:40 GMT: findResource(edu.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Feb 2018 23:14:40 GMT: findResource(java/lang/edu.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu) called
+20 Feb 2018 23:14:40 GMT: findResource(edu.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu) called
+20 Feb 2018 23:14:40 GMT: findResource(edu.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu) called
+20 Feb 2018 23:14:40 GMT: findResource(edu.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Feb 2018 23:14:40 GMT: findResource(java/lang/edu.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu) called
+20 Feb 2018 23:14:40 GMT: findResource(edu.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu) called
+20 Feb 2018 23:14:40 GMT: findResource(edu.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu) called
+20 Feb 2018 23:14:40 GMT: findResource(edu.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu) called
+20 Feb 2018 23:14:40 GMT: findResource(edu.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu) called
+20 Feb 2018 23:14:40 GMT: findResource(edu.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Feb 2018 23:14:40 GMT: findResource(java/lang/edu.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu) called
+20 Feb 2018 23:14:40 GMT: findResource(edu.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Feb 2018 23:14:40 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(Player) called
+20 Feb 2018 23:14:40 GMT: findResource(Player.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(Card) called
+20 Feb 2018 23:14:40 GMT: findResource(Card.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(CardSwitch) called
+20 Feb 2018 23:14:40 GMT: findResource(CardSwitch.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(Card$Rank) called
+20 Feb 2018 23:14:40 GMT: findResource(Card$Rank.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(Card$Suit) called
+20 Feb 2018 23:14:40 GMT: findResource(Card$Suit.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(Hand) called
+20 Feb 2018 23:14:40 GMT: findResource(Hand.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+20 Feb 2018 23:14:40 GMT: PathClassLoader.findClass(CardSwitch$1) called
+20 Feb 2018 23:14:40 GMT: findResource(CardSwitch$1.class) called; _path is [, , E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1, C:\Users\George\Desktop\drjava-gmu.jar]
+8 Mar 2018 14:55:02 GMT: Log 'PathClassLoader.txt' opened: 8 Mar 2018 14:55:02 GMT with name E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1\PathClassLoader.txt
+16 Mar 2018 21:29:25 GMT: Log 'PathClassLoader.txt' opened: 16 Mar 2018 21:29:25 GMT with name E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1\PathClassLoader.txt
+16 Mar 2018 21:29:25 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@b4aac2 and path '[C:\Users\George\Desktop\drjava-gmu.jar]'
+17 Mar 2018 12:27:59 GMT: Log 'PathClassLoader.txt' opened: 17 Mar 2018 12:27:59 GMT with name E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1\PathClassLoader.txt
+17 Mar 2018 12:27:59 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@b4aac2 and path '[C:\Users\George\Desktop\drjava-gmu.jar]'
+17 Mar 2018 13:52:17 GMT: Log 'PathClassLoader.txt' opened: 17 Mar 2018 13:52:17 GMT with name E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1\PathClassLoader.txt
+17 Mar 2018 13:52:17 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@b4aac2 and path '[C:\Users\George\Desktop\drjava-gmu.jar]'
+17 Mar 2018 18:01:43 GMT: Log 'PathClassLoader.txt' opened: 17 Mar 2018 18:01:43 GMT with name E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1\PathClassLoader.txt
+17 Mar 2018 18:01:43 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@b4aac2 and path '[C:\Users\George\Desktop\drjava-gmu.jar]'
+17 Mar 2018 22:16:23 GMT: Log 'PathClassLoader.txt' opened: 17 Mar 2018 22:16:23 GMT with name E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1\PathClassLoader.txt
+17 Mar 2018 22:16:23 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@b4aac2 and path '[C:\Users\George\Desktop\drjava-gmu.jar]'
+19 Mar 2018 2:08:29 GMT: Log 'PathClassLoader.txt' opened: 19 Mar 2018 2:08:29 GMT with name E:\GMU_HW\Spring2018\CS310\Projects\project1\z003-gtang2-p1\PathClassLoader.txt
+19 Mar 2018 2:08:29 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@b4aac2 and path '[C:\Users\George\Desktop\drjava-gmu.jar]'
